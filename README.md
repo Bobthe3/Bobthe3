@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Bobthe3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, im bobthe3
 
-<!---
-Bobthe3/Bobthe3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+check out my personal blog at www.bobthe3.github.io
+
+Currently working with Ease Attendance https://www.easeattendance.com/
